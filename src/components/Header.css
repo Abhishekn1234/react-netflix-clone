@@ -1,0 +1,37 @@
+.nav_logo{
+    width:100px;
+}
+.btn{
+   
+    margin-left: 80%;
+   margin-right: 50%; right: 0px;
+   float: right;
+   left:50%;
+}
+select{
+    margin-left: 10%;
+    float: right;
+}
+.container-fluid-xl{
+    width:100%;
+    justify-content: space-between;
+}
+.top-Nav{
+    opacity: 0.78;
+    width:100%;
+    nav-right: 60%;
+    position: absolute;
+    z-index: 10;
+    opacity: 0.75;
+    background: linear-gradient(180deg,black,transparent);
+    select{
+        background: rgba(0,0,0,.4);
+        border: 1px solid #aaa;
+        color:#ffff;
+        font-size: .875rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin-right: 20px;
+       margin-left: 80%; left:50%;
+    }
+}

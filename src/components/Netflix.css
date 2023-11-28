@@ -1,0 +1,30 @@
+/* Navbar.css */
+.navbar {
+    background-color: #141414; /* Dark background color */
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .netflix-logo {
+    width: 150px; /* Adjust the width as needed */
+  }
+  /* Add these styles to your CSS file */
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.search-icon {
+  color: white;
+  cursor: pointer;
+}
+
+/* Add any additional styling as needed */

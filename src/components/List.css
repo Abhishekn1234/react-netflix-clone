@@ -1,0 +1,22 @@
+/* Movie.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+  }
+  
+  .movie-container {
+    padding: 20px;
+    color: white;
+    background-color: black;
+  }
+  
+  .movie-section {
+    margin-bottom: 30px;
+    color: white;
+    background-color: black;
+  }
+  
+  /* Add more styles as needed */
+  
